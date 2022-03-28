@@ -1,0 +1,146 @@
+/* .topDivision{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 200px;
+}
+.midDivision{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 100px;
+}
+.bottomDivision{
+    background-color:yellow;
+    height: 100px;
+    width: 100px;
+   position: relative;
+   bottom: 200px;
+   left: 100px;
+} */
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Calligraffitti', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color:#66BFBF;
+    /* line-height: 2; */
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+.computer{
+    /* text-align: left; */
+    /* line-height: 2; */
+    padding-left: 30%;
+}
+.chillies{
+    /* text-align: left;
+    line-height: 2; */
+    padding-right: 30%;
+}
+.skill-row{
+    width: 50%;
+   margin:100px auto 100px auto;
+   text-align: left;
+    line-height: 2;
+}
+.computer-image{
+    width: 25%;
+    float: left;
+}
+.chillies-image{
+    width: 25%;
+    float: right;
+}
+.pro{
+    text-decoration: underline;
+}
+.topDivision{
+    background-color:#EAF6F6;
+    margin: 0;
+    margin-bottom: 70px;
+    position: relative;
+    padding: 100px;
+}
+.profile p{
+    text-align: center;
+    width: 300px;
+    height: auto; 
+    color:#40514E;  
+    margin-left: 480px;
+    margin-bottom: 80px; 
+}
+.bottomDivision{
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 350px;
+}
+.my-photo{
+    max-width: 10%;
+    height: auto;
+    /* width: 25%; */
+    border-radius: 50%;
+}
+
+hr{
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    border-block-color: #EAF6F6;
+    border-top-width: 7px;
+}
+
+.btn{
+    background-color: #66BFBF;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5%;
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+}
+
+.bottom-container{
+    margin-top: 50px;
+    background-color:#EAF6F6 ;
+    padding: 40px;
+}
+
+.footer-link{
+    color:#11999E;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5%;
+    text-decoration: none;
+}
+
+.editting{
+    margin-top: 20px;
+}
+
